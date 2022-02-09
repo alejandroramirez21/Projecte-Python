@@ -1,0 +1,2 @@
+# Projecte-Python
+//AÑADIR EL TRABAJO DIARIO REALIZADO
